@@ -1,2 +1,9 @@
 # Vedic-Multiplier-Verilog
-Vedic multiplier implemented in Verilog with Normal Assignment, Ripple Carry Adder, and Carry Look-Ahead Adder versions
+This project implements a Vedic Multiplier using the Urdhva Tiryakbhyam Sutra from Vedic mathematics.
+It contains three versions in a single Verilog file:
+
+Normal Assignment implementation
+
+Ripple Carry Adder (RCA) based implementation
+
+Carry Look-Ahead Adder (CLA) based implementation
